@@ -1,5 +1,4 @@
 import IPSubnetCalculator from "./components/IPSubnetCalculator";
-import "./app.css";
 
 function App() {
 	return (
